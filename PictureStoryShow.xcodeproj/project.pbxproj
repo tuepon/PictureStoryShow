@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE97112D262982F80063D12A /* BornViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE97112C262982F80063D12A /* BornViewController.swift */; };
 		DEFC069026293D54007997F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEFC068F26293D54007997F6 /* AppDelegate.swift */; };
 		DEFC069226293D54007997F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEFC069126293D54007997F6 /* SceneDelegate.swift */; };
 		DEFC069426293D54007997F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEFC069326293D54007997F6 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE97112C262982F80063D12A /* BornViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BornViewController.swift; sourceTree = "<group>"; };
 		DEFC068C26293D54007997F6 /* PictureStoryShow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PictureStoryShow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEFC068F26293D54007997F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEFC069126293D54007997F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				DEFC069826293D56007997F6 /* Assets.xcassets */,
 				DEFC069A26293D56007997F6 /* LaunchScreen.storyboard */,
 				DEFC069D26293D56007997F6 /* Info.plist */,
+				DE97112C262982F80063D12A /* BornViewController.swift */,
 			);
 			path = PictureStoryShow;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				DEFC069426293D54007997F6 /* ViewController.swift in Sources */,
 				DEFC069026293D54007997F6 /* AppDelegate.swift in Sources */,
 				DEFC069226293D54007997F6 /* SceneDelegate.swift in Sources */,
+				DE97112D262982F80063D12A /* BornViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
